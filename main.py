@@ -5,7 +5,7 @@ Writes a single line, 200 characters at most, to /output/entry.txt:
 an original roast of the printer, a gadget used every day, with a
 concrete gripe (ink that only runs out when it matters, then a ten
 minute "cleaning" cycle that burns more ink than the print would have).
-Deterministic, standard library only, no input, no network.
+Deterministic, standard library only, no input and no network.
 """
 
 import os
